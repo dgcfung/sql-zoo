@@ -10,6 +10,7 @@
 3. 
 
 
+
 -- SECTION 1 - SELECT NAME
 
 --Find the country that start with Y
@@ -41,6 +42,7 @@
 
 -- Find the countries that have exactly four characters.
 10. 
+
 
 
 -- SECTION 2 - SELECT from World
@@ -125,3 +127,22 @@ Barack Obama*/
 -- (before 1910, not including 1910) together with winners of a 'Literature' prize in a later year 
 -- (after 2004, including 2004)
 10. 
+
+
+
+--SECTION 6 - BONUS
+
+-- Modify it to show the matchid and player name for all goals scored by Germany.
+1. 
+
+-- Show id, stadium, team1, team2 for just game 1012
+2.
+
+-- Modify it to show the player, teamid, stadium and mdate for every German goal.
+3.
+
+-- Show the team1, team2 and player for every goal scored by a player called Mario player LIKE 'Mario%'
+4. 
+
+-- Show player, teamid, coach, gtime for all goals scored in the first 10 minutes gtime<=10
+5. 
